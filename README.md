@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a program which does engoneering drawing<br>👯 I’m looking to collaborate on projects involving java and web development<br>🤝 I’m looking for help with projects regarding java and javascript<br>🌱 I’m currently learning python<br>💬 Ask me about java
+🔭 I’m currently working on a program which does engineering drawing<br>👯 I’m looking to collaborate on projects involving java and web development<br>🤝 I’m looking for help with projects regarding java and javascript<br>🌱 I’m currently learning python<br>💬 Ask me about java
 
 
 # 💻 Tech Stack:
