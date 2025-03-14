@@ -1,6 +1,3 @@
-![Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/97d8e51c-e0d0-4ac4-842d-d848caa40c47)
-
-
 # 💫 About Me:
 🔭 I’m currently learning machine learning using java<br>👯 I’m looking to collaborate on projects involving java and web development<br>🤝 I’m looking for help with projects regarding java and javascript<br>🌱 I’m currently learning python<br>💬 Ask me about java
 
