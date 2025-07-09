@@ -1,5 +1,5 @@
 
- **I am passionate about Java, Web Development, and AI, with a strong interest in collaborating on Java, JavaScript, and web-based projects. I have a particular focus on Digital Systems, Embedded Projects, and Neuromorphic Computing. Additionally, I am actively building Speech and AI-powered applications, leveraging the latest advancements in these fields.**  
+ **I'm passionate about Java, Web Development, and AI, with a strong interest in collaborating on Java, JavaScript, and web-based projects. I have a particular focus on Digital Systems, Embedded Projects, and Neuromorphic Computing. Additionally, I am actively building Speech and AI-powered applications, leveraging the latest advancements in these fields.**  
 
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-## GitHub Stats:
+##  Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=shayen71421&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayen71421&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
@@ -30,15 +30,14 @@
 
 ---
 
-###  Favorite Dev Quote:
+### Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ---
 
 
-### 📫 Let's Connect & Code!
+###  Ways to contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayen-thomas-b78b02302/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.shayen_thomas._/)  
 
