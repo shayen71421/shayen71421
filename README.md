@@ -20,8 +20,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 
 ### **Web & Backend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
 
@@ -47,25 +46,6 @@
 
 ---
 
-## 🌱 Current Focus:
-
-🔹 Enhancing AI capabilities with **Java**  
-🔹 Building and optimizing **Machine Learning models**  
-🔹 Developing **Web Applications** with Java & JavaScript  
-🔹 Exploring **Digital System Design & Embedded Projects**  
-🔹 Experimenting with **Neuromorphic Computing & Logic Circuits**  
-
----
-
-## 🛠️ Projects & Interests:
-
-🔸 **AI & Machine Learning** (Java-based AI models, NLP, TinyLlama fine-tuning)  
-🔸 **Digital System Design** (Neuromorphic Logic Circuits, Crystal Radios, and More)  
-🔸 **Raspberry Pi Projects** (LLM, STT, and TTS Implementation)  
-🔸 **Hackathons & Startup Ideas** (Job-Matching Platform & Voice Bot)  
-🔸 **Game Development with Logic Gates** (Tetris project without microcontrollers)  
-
----
 
 ### 📫 Let's Connect & Code!
 
