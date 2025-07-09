@@ -26,15 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=shayen71421&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayen71421&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)  
-![](https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/images/graph.png)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark)
-![](https://github-readme-stats.vercel.app/api?username=shayen71421&show_icons=true&hide=prs&count_private=true&hide_title=true&theme=dark)
-![](https://komarev.com/ghpvc/?username=shayen71421)
-![](https://github-profile-trophy.vercel.app/?username=shayen71421&theme=dark)
-![](https://github-readme-language-stats.vercel.app/api/top-langs?username=shayen71421&theme=dark&hide_border=true)
-![](https://activity-graph.herokuapp.com/graph?username=shayen71421&theme=react-dark)
-
-
 
 
 ---
