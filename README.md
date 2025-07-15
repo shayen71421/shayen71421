@@ -25,13 +25,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=shayen71421&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayen71421&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-[![GitHub Streak](https://github-readme-streak-stats-seven-ivory.vercel.app?user=shayen71421&theme=neon)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-seven-ivory.vercel.app?user=shayen71421&theme=react)](https://git.io/streak-stats)
 
 ---
 
 ### Random Dev Quote:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)  
 
 ---
 
