@@ -20,15 +20,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 
 ---
-
-### Random Dev Quote:
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)  
-
----
-
-
-###  Ways to contact me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayen-thomas-b78b02302/)  
-
