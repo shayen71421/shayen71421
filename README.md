@@ -23,7 +23,7 @@
 
 ##  Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shayen71421&theme=react&hide_border=false&include_all_commits=true&count_private=true)  
+[![Shayen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayen71421&show_icons=true&theme=tokyonight&border_radius=10)](https://github.com/shayen71421)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayen71421&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=react)](https://github.com/shayen71421)
 
