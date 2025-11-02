@@ -10,10 +10,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayen71421&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" style="width:450px; height:200px; max-width:100%;" />
-</div>
-
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,docker,mysql,flask,nextjs,tailwind,mongodb" style="height:64px;" alt="tech stack icons" />
 </div>
