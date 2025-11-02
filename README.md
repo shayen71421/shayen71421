@@ -15,26 +15,26 @@
 ## Tech Stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,python,c,cpp,nodejs,spring,postgres,docker,mysql,flask,nextjs,tailwind,numpy,mongodb" height="70" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,python,c,cpp,nodejs,spring,postgres,docker,mysql,flask,nextjs,tailwind,mongodb" height="70" alt="tech stack icons" />
 </div>
 
 ### Languages & Frameworks
 <div>
-  <img src="https://skillicons.dev/icons?i=java" height="28" /> Java
-  <img src="https://skillicons.dev/icons?i=js" height="28" /> JavaScript
-  <img src="https://skillicons.dev/icons?i=ts" height="28" /> TypeScript
-  <img src="https://skillicons.dev/icons?i=python" height="28" /> Python
-  <img src="https://skillicons.dev/icons?i=c,cpp" height="28" /> C / C++
+  <img src="https://skillicons.dev/icons?i=java" height="28" /> 
+  <img src="https://skillicons.dev/icons?i=js" height="28" /> 
+  <img src="https://skillicons.dev/icons?i=ts" height="28" /> 
+  <img src="https://skillicons.dev/icons?i=python" height="28" /> 
+  <img src="https://skillicons.dev/icons?i=c,cpp" height="28" /> 
 </div>
 
 ### Web & Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,spring" height="28" /> HTML / CSS / React / Node / Next / Spring
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,spring" height="28" /> 
 </div>
 
 ### Databases & DevOps
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" height="28" /> MySQL / PostgreSQL / MongoDB / Docker
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" height="28" />
 </div>
 
 ### Stats:
