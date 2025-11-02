@@ -12,30 +12,15 @@
 
 ---
 
-## Tech Stack:
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,python,c,cpp,nodejs,spring,postgres,docker,mysql,flask,nextjs,tailwind,mongodb" style="height:96px;" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,python,c,cpp,nodejs" style="height:96px;" alt="tech stack icons" />
 </div>
 
-### Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" style="height:48px;margin:6px;" alt="java" />
-  <img src="https://skillicons.dev/icons?i=js" style="height:48px;margin:6px;" alt="js" />
-  <img src="https://skillicons.dev/icons?i=ts" style="height:48px;margin:6px;" alt="ts" />
-  <img src="https://skillicons.dev/icons?i=python" style="height:48px;margin:6px;" alt="python" />
-  <img src="https://skillicons.dev/icons?i=c,cpp" style="height:48px;margin:6px;" alt="c cpp" />
+  <img src="https://skillicons.dev/icons?i=spring,postgres,docker,mysql,flask,nextjs,tailwind,mongodb" style="height:96px;" alt="tech stack icons" />
 </div>
 
-### Web & Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,spring" style="height:48px;margin:6px;" alt="web backend" />
-</div>
-
-### Databases & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" style="height:48px;margin:6px;" alt="db devops" />
-</div>
+---
 
 ### Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)
