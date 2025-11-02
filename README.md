@@ -1,7 +1,5 @@
 **I'm passionate about Java, Web Development, and AI, with a strong interest in collaborating on Java, JavaScript, and web-based projects. I have a particular focus on Digital Systems, Embedded Projects, and Neuromorphic Computing. Additionally, I am actively building Speech and AI-powered applications, leveraging the latest advancements in these fields.**  
 
-
----
 <br clear="both">
 <img src="https://raw.githubusercontent.com/shayen71421/shayen71421/output/snake.svg" alt="Snake animation" />
 
