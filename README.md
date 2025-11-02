@@ -4,6 +4,16 @@
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/shayen71421/shayen71421/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+---
+
 ## Tech Stack:
 
 ### **Programming Languages:**
@@ -20,15 +30,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 
 ### Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayen71421&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shayen71421/shayen71421/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
