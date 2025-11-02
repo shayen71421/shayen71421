@@ -15,26 +15,26 @@
 ## Tech Stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,python,c,cpp,nodejs,spring,postgres,docker,mysql,flask,nextjs,tailwind,mongodb" height="70" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,python,c,cpp,nodejs,spring,postgres,docker,mysql,flask,nextjs,tailwind,mongodb" style="height:96px;" alt="tech stack icons" />
 </div>
 
 ### Languages & Frameworks
-<div>
-  <img src="https://skillicons.dev/icons?i=java" height="28" /> 
-  <img src="https://skillicons.dev/icons?i=js" height="28" /> 
-  <img src="https://skillicons.dev/icons?i=ts" height="28" /> 
-  <img src="https://skillicons.dev/icons?i=python" height="28" /> 
-  <img src="https://skillicons.dev/icons?i=c,cpp" height="28" /> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" style="height:48px;margin:6px;" alt="java" />
+  <img src="https://skillicons.dev/icons?i=js" style="height:48px;margin:6px;" alt="js" />
+  <img src="https://skillicons.dev/icons?i=ts" style="height:48px;margin:6px;" alt="ts" />
+  <img src="https://skillicons.dev/icons?i=python" style="height:48px;margin:6px;" alt="python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" style="height:48px;margin:6px;" alt="c cpp" />
 </div>
 
 ### Web & Backend
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,spring" height="28" /> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,spring" style="height:48px;margin:6px;" alt="web backend" />
 </div>
 
 ### Databases & DevOps
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" height="28" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" style="height:48px;margin:6px;" alt="db devops" />
 </div>
 
 ### Stats:
