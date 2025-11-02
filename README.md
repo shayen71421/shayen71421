@@ -9,8 +9,8 @@
 <img src="https://raw.githubusercontent.com/shayen71421/shayen71421/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <br clear="both">
+
 ---
 
 ## Tech Stack:
