@@ -25,3 +25,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayen71421&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/shayen71421/shayen7141/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
