@@ -13,11 +13,19 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,python,c,cpp,nodejs" style="height:96px;" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,mysql,flask,nextjs,tailwind,mongodb" style="height:64px;" alt="tech stack icons" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,postgres,docker,mysql,flask,nextjs,tailwind,mongodb" style="height:96px;" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,python" style="height:64px;" alt="tech stack icons" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,nodejs" style="height:64px;" alt="tech stack icons" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring" style="height:64px;" alt="tech stack icons" />
 </div>
 
 ---
