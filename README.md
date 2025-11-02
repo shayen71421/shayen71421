@@ -1,5 +1,4 @@
-
- **I'm passionate about Java, Web Development, and AI, with a strong interest in collaborating on Java, JavaScript, and web-based projects. I have a particular focus on Digital Systems, Embedded Projects, and Neuromorphic Computing. Additionally, I am actively building Speech and AI-powered applications, leveraging the latest advancements in these fields.**  
+**I'm passionate about Java, Web Development, and AI, with a strong interest in collaborating on Java, JavaScript, and web-based projects. I have a particular focus on Digital Systems, Embedded Projects, and Neuromorphic Computing. Additionally, I am actively building Speech and AI-powered applications, leveraging the latest advancements in these fields.**  
 
 
 ---
@@ -15,18 +14,28 @@
 
 ## Tech Stack:
 
-### **Programming Languages:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,python,c,cpp,nodejs,spring,postgres,docker,mysql,flask,nextjs,tailwind,numpy,mongodb" height="70" alt="tech stack icons" />
+</div>
 
-### **Web & Backend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+### Languages & Frameworks
+<div>
+  <img src="https://skillicons.dev/icons?i=java" height="28" /> Java
+  <img src="https://skillicons.dev/icons?i=js" height="28" /> JavaScript
+  <img src="https://skillicons.dev/icons?i=ts" height="28" /> TypeScript
+  <img src="https://skillicons.dev/icons?i=python" height="28" /> Python
+  <img src="https://skillicons.dev/icons?i=c,cpp" height="28" /> C / C++
+</div>
 
-### **Databases & DevOps:**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
+### Web & Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,spring" height="28" /> HTML / CSS / React / Node / Next / Spring
+</div>
+
+### Databases & DevOps
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker" height="28" /> MySQL / PostgreSQL / MongoDB / Docker
+</div>
 
 ### Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)
