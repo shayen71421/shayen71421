@@ -28,11 +28,14 @@
   <img src="https://skillicons.dev/icons?i=spring" style="height:64px;" alt="tech stack icons" />
 </div>
 
----
+
 
 ### Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)
+
+<div align="center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayen71421&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
 
