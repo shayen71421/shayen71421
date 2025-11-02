@@ -10,6 +10,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)
 
+</div>
+
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgres,docker,mysql,flask,nextjs,tailwind,mongodb" style="height:64px;" alt="tech stack icons" />
 </div>
