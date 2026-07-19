@@ -1,36 +1,30 @@
-<div align="center">
+# Shayen Thomas
 
-**I'm passionate about Java, Web Development, and AI, with a strong interest in collaborating on Java, JavaScript, and web-based projects. I have a particular focus on Digital Systems, Embedded Projects, and Neuromorphic Computing. Additionally, I am actively building Speech and AI-powered applications, leveraging the latest advancements in these fields.**  
-</div>
+**Software Developer building AI, accessibility and bioinformatics systems.**
 
-<div align="center">
-  
-<br clear="both">
-<img src="https://raw.githubusercontent.com/shayen71421/shayen71421/output/snake.svg" alt="Snake animation" />
+I develop practical software across adaptive education, biomedical
+informatics, open source and institutional digital infrastructure.
 
-###
-<br clear="both">
-</div>
+## What I’m working on
 
-<div align="center">
+- **NeuroLearn AI** — adaptive Malayalam learning for neurodivergent students
+- **Sydney** — biomedical variant intelligence using ClinVar and PubMed
+- **Accessibility Menu** — open-source accessibility toolkit for React and Next.js
+- **Sahrdaya Website & CMS** — institutional migration from WordPress to Next.js
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shayen71421&theme=dark&hide_border=false)
+## Community and leadership
 
-</div>
+- Chief Technology Officer — IEDC Sahrdaya
+- Webmaster — IEEE Education Society Kerala Chapter
+- Technical Coordinator — IEEE Kerala ATIIG
+- Technical Team Member — STRIDE, K-DISC
 
+## Focus areas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,mysql,flask,nextjs,tailwind,mongodb" style="height:64px;" alt="tech stack icons" />
-</div>
+`Artificial Intelligence` · `Web Accessibility` · `Bioinformatics`  
+`Next.js` · `FastAPI` · `Python` · `TypeScript` · `Open Source`
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,python" style="height:64px;" alt="tech stack icons" />
-</div>
+## Connect
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,nodejs" style="height:64px;" alt="tech stack icons" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=spring" style="height:64px;" alt="tech stack icons" />
-</div>
+- Portfolio: [shayenthomas.in](https://www.shayenthomas.in/)
+- LinkedIn: [Shayen Thomas](https://www.linkedin.com/in/shayen-thomas/)
